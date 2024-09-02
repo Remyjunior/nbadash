@@ -1,0 +1,4 @@
+streamlit
+nba_api
+pandas
+plotly
