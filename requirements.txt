@@ -1,4 +1,5 @@
-streamlit
-nba_api
-pandas>=2.0.0
-plotly
+streamlit==1.23.1
+pandas==2.0.3
+numpy==1.23.5
+nba_api==1.2.6
+plotly==5.10.0
